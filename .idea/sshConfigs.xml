@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="SshConfigs">
+    <configs>
+      <sshConfig authType="PASSWORD" host="192.168.0.112" id="c3ca27fd-4fc0-4509-81ea-3557f467c3ff" port="22" customName="Ubuntu18.04" nameFormat="CUSTOM" username="xsc" />
+      <sshConfig authType="PASSWORD" host="192.168.0.105" id="f7ee327d-8979-483a-85cc-a09d4628b8fc" port="22" customName="WSL" nameFormat="CUSTOM" username="xsc" />
+    </configs>
+  </component>
+</project>
