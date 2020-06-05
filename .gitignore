@@ -1,4 +1,5 @@
 */.idea
+.idea
 /.vscode
 /course/test*.py
 /offer/test*.py
