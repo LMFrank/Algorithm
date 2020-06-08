@@ -3,7 +3,6 @@ package problem05
 import (
 	"Go/utils"
 	"errors"
-	"expvar"
 )
 
 type Queue struct {
